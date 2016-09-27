@@ -17,7 +17,7 @@ Roma
 Sevilla FC
 Villarreal CF
 Bayer 04
-Vfl Wolfsburg
+VfL Wolfsburg
 Inter
 Athletic Bilbao
 SL Benfica
@@ -32,7 +32,7 @@ Bor. Mgladbach
 Besiktas
 Fenerbahce
 Fiorentina
-Olym Lyonnais
+Olym. Lyonnais
 AS Monaco
 Real Sociedad
 Newcastle Utd.
